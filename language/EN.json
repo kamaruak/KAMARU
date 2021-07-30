@@ -190,8 +190,8 @@
             "UPLOADING_SONG": "\n*⟲𝄠🤍Uploading Song🤍𝄠⟲*\n",
             "VIDEO_DESC": "Downloads video from YouTube.",
             "NEED_VIDEO": "*Please write a video link!*\n*Example:* ```.video https://www.youtube.com/watch?v=nAFlVm5qeBc```",
-            "DOWNLOADING_VIDEO": "```Downloading 🎥...```",
-            "UPLOADING_VIDEO": "```Uploading...```",
+            "DOWNLOADING_VIDEO": "```🥀Dᴏᴡɴʟᴏᴀᴅɪɴɢ🤸🏼‍♀️```",
+            "UPLOADING_VIDEO": "```🌿Uᴘʟᴏᴀᴅɪɴɢ⚡️```",
             "YT_DESC": "It searchs on YouTube.",
             "NEED_WORDS": "```Please write a few words!```",
             "GETTING_VIDEOS": "```I'm bringing videos...```",
@@ -204,7 +204,7 @@
         "sticker": {
             "STICKER_DESC": "It converts your replied photo or video to sticker.",
             "NEED_REPLY": "*Reply to a photo or video!*",
-            "DOWNLOADING": "```Ippam Seriyakithra 🌿```"
+            "DOWNLOADING": "```♥️Iᴘᴘᴀᴍ Sᴇʀɪʏᴀᴋɪᴛʜʀᴀ👻```"
         },
         "system_stats": {
             "ALIVE_DESC": "Does bot work?",
@@ -217,13 +217,13 @@
         "updater": {
             "UPDATER_DESC": "Checks the update.",
             "UPDATE": "*Your bot is completely up-to-date!*",
-            "NEW_UPDATE": "*Pikachu Update Available*\n\n please ask support group before updating. Otherwise chance to get error\n\nChanges:\n```",
+            "NEW_UPDATE": "*⟁◽ᴋᴀᴍᴀʀᴜ ᴀᴋ ᴜᴘᴅᴀᴛᴇ Aᴠᴀɪʟᴀʙʟᴇ◾⟁*\n\n please ask support group before updating. Otherwise chance to get error\n\nChanges:\n```",
             "UPDATE_NOW_DESC": "It makes updates.",
-            "UPDATING": "```Updating..🧚‍♂️```",
+            "UPDATING": "``````↻ＵＰＤＡＴＩＮＧ↺``````",
             "INVALID_HEROKU": "*❌ Your Heroku information is wrong!*",
-            "UPDATED": "*Updated 🌿✅*",
+            "UPDATED": "*☞↻↓ＵＰＤＡＴＥＤ↑↻☜*",
             "UPDATED_LOCAL": "*✅🌿🥰 Successfully Updated!*",
-            "AFTER_UPDATE": "*🪄🤍 Kamaruak Restarting*"
+            "AFTER_UPDATE": "*❤️𝕂𝔸𝕄𝔸ℝ𝕌 𝔸𝕂 ℝ𝔼𝕊𝕋𝔸ℝ𝕋𝕀ℕ𝔾🤍*"
         },
         "weather": {
             "WEATHER_DESC": "Shows the weather.",

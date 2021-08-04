@@ -186,12 +186,12 @@
             "SONG_DESC": "Uploads the song you wrote.",
             "NEED_TEXT_SONG": "*Please write a song!*\n*Example:* ```.song Naadan Vibe```",
             "NO_RESULT": "*I couldn't find anything :(*",
-            "DOWNLOADING_SONG": "\n*𝄠🌿Searching your song🌿𝄠*\n",
-            "UPLOADING_SONG": "\n*⟲𝄠🤍Uploading Song🤍𝄠⟲*\n",
+            "DOWNLOADING_SONG": "\n*𝄠🌿♬♫♪𝕾𝖊𝖆𝖗𝖈𝖍𝖎𝖓𝖌 𝖞𝖔𝖚𝖗 𝖘𝖔𝖓𝖌♬♫♪🌿𝄠*\n",
+            "UPLOADING_SONG": "\n*𝄠🤍♬♫♪𝖀𝖕𝖑𝖔𝖆𝖉𝖎𝖓𝖌 𝕾𝖔𝖓𝖌♬♫♪🤍𝄠*\n",
             "VIDEO_DESC": "Downloads video from YouTube.",
             "NEED_VIDEO": "*Please write a video link!*\n*Example:* ```.video https://www.youtube.com/watch?v=nAFlVm5qeBc```",
-            "DOWNLOADING_VIDEO": "```🥀Dᴏᴡɴʟᴏᴀᴅɪɴɢ🤸🏼‍♀️```",
-            "UPLOADING_VIDEO": "```🌿Uᴘʟᴏᴀᴅɪɴɢ⚡️```",
+            "DOWNLOADING_VIDEO": "``★༄Dᴏᴡɴʟᴏᴀᴅɪɴɢ༄★```",
+            "UPLOADING_VIDEO": "``🍁★༄Uᴘʟᴏᴀᴅɪɴɢ༄★🍁```",
             "YT_DESC": "It searchs on YouTube.",
             "NEED_WORDS": "```Please write a few words!```",
             "GETTING_VIDEOS": "```I'm bringing videos...```",
@@ -204,7 +204,7 @@
         "sticker": {
             "STICKER_DESC": "It converts your replied photo or video to sticker.",
             "NEED_REPLY": "*Reply to a photo or video!*",
-            "DOWNLOADING": "```♥️Iᴘᴘᴀᴍ Sᴇʀɪʏᴀᴋɪᴛʜʀᴀ👻```"
+            "DOWNLOADING": "```♕︎❀Iᴘᴘᴀᴍ★Sᴇʀɪʏᴀᴋɪᴛʜʀᴀ❀♕︎```"
         },
         "system_stats": {
             "ALIVE_DESC": "Does bot work?",
@@ -219,9 +219,9 @@
             "UPDATE": "*Your bot is completely up-to-date!*",
             "NEW_UPDATE": "*⟁◽ᴋᴀᴍᴀʀᴜ ᴀᴋ ᴜᴘᴅᴀᴛᴇ Aᴠᴀɪʟᴀʙʟᴇ◾⟁*\n\n please ask support group before updating. Otherwise chance to get error\n\nChanges:\n```",
             "UPDATE_NOW_DESC": "It makes updates.",
-            "UPDATING": "``````↻ＵＰＤＡＴＩＮＧ↺``````",
+            "UPDATING": "``````↻❀❥︎ＵＰＤＡＴＩＮＧ❥︎❀↺``````",
             "INVALID_HEROKU": "*❌ Your Heroku information is wrong!*",
-            "UPDATED": "*☞↻↓ＵＰＤＡＴＥＤ↑↻☜*",
+            "UPDATED": "*☞🍂↻↓ＵＰＤＡＴＥＤ↑↻🍂☜*",
             "UPDATED_LOCAL": "*✅🌿🥰 Successfully Updated!*",
             "AFTER_UPDATE": "*❤️𝕂𝔸𝕄𝔸ℝ𝕌 𝔸𝕂 ℝ𝔼𝕊𝕋𝔸ℝ𝕋𝕀ℕ𝔾🤍*"
         },

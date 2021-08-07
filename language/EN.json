@@ -186,8 +186,8 @@
             "SONG_DESC": "Uploads the song you wrote.",
             "NEED_TEXT_SONG": "*Please write a song!*\n*Example:* ```.song Naadan Vibe```",
             "NO_RESULT": "*I couldn't find anything :(*",
-            "DOWNLOADING_SONG": "\n*𝄠🌿♬♫♪𝕾𝖊𝖆𝖗𝖈𝖍𝖎𝖓𝖌 𝖞𝖔𝖚𝖗 𝖘𝖔𝖓𝖌♬♫♪🌿𝄠*\n",
-            "UPLOADING_SONG": "\n*𝄠🤍♬♫♪𝖀𝖕𝖑𝖔𝖆𝖉𝖎𝖓𝖌 𝕾𝖔𝖓𝖌♬♫♪🤍𝄠*\n",
+            "DOWNLOADING_SONG": "\n*๏[-ิ_•ิ]๏𝄠🅢🇪🅐︎ʀC͜͡🅗︎ ሃ០υƦ 𝕤𝕠𝕟𝕘𝄠๏[-ิ_•ิ]๏*\n",
+            "UPLOADING_SONG": "\n*๏[-ิ_•ิ]๏𝄠🅤︎🇵🅛︎ L҉ 🅞︎𝔸𝔻🅘︎🇳 𝐬 O҉ и🅖︎𝄠๏[-ิ_•ิ]๏*\n",
             "VIDEO_DESC": "Downloads video from YouTube.",
             "NEED_VIDEO": "*Please write a video link!*\n*Example:* ```.video https://www.youtube.com/watch?v=nAFlVm5qeBc```",
             "DOWNLOADING_VIDEO": "``★༄Dᴏᴡɴʟᴏᴀᴅɪɴɢ༄★```",
@@ -204,7 +204,7 @@
         "sticker": {
             "STICKER_DESC": "It converts your replied photo or video to sticker.",
             "NEED_REPLY": "*Reply to a photo or video!*",
-            "DOWNLOADING": "```♕︎❀Iᴘᴘᴀᴍ★Sᴇʀɪʏᴀᴋɪᴛʜʀᴀ❀♕︎```"
+            "DOWNLOADING": "```*🌹ʕ•ᴥ•ʔ𝐢𝐩𝐩𝐚𝐦 🅢︎𝕖𝕣𝕚𝕪𝕒𝕜𝕚𝕥𝕙𝕣𝕒🇧R҉ 🅞︎ʕ•ᴥ•ʔ🌹*```"
         },
         "system_stats": {
             "ALIVE_DESC": "Does bot work?",

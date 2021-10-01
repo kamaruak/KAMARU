@@ -186,12 +186,12 @@
             "SONG_DESC": "Uploads the song you wrote.",
             "NEED_TEXT_SONG": "*Please write a song!*\n*Example:* ```.song Naadan Vibe```",
             "NO_RESULT": "*I couldn't find anything :(*",
-            "DOWNLOADING_SONG": "\n*♥️ ⃟꙰🖤꙰ 𝄠𝒔𝒆𝒂𝒓𝒄𝒉 𝒚𝒐𝒖𝒓 𝒔𝒐𝒏𝒈𝄠♥️ ⃟꙰🖤꙰*\n",
-            "UPLOADING_SONG": "\n*🤍 ⃟꙰💛 ꙰𝄠𝒖𝒑𝒍𝒐𝒂𝒅𝒊𝒏 𝒚𝒐𝒖 𝒔𝒐𝒏𝒈𝄠🤍 ⃟꙰💛꙰*\n",
+            "DOWNLOADING_SONG": "\n_Searching your song........_\n",
+            "UPLOADING_SONG": "\n_uploading your song....._\n",
             "VIDEO_DESC": "Downloads video from YouTube.",
             "NEED_VIDEO": "*Please write a video link!*\n*Example:* ```.video https://www.youtube.com/watch?v=nAFlVm5qeBc```",
-            "DOWNLOADING_VIDEO": "*👻 ⃟꙰❤️꙰ 𝒅𝒐𝒘𝒏𝒍𝒐𝒂𝒅❤️⃟꙰👻꙰*",
-            "UPLOADING_VIDEO": "*🌀 ⃟꙰🤹🏻‍♂️꙰ 𝒖𝒑𝒍𝒐𝒂𝒅𝒊𝒏𝒈🌀⃟꙰🤹🏻‍♂️꙰*",
+            "DOWNLOADING_VIDEO": "_Download video....._",
+            "UPLOADING_VIDEO": "_Upload video....._",
             "YT_DESC": "It searchs on YouTube.",
             "NEED_WORDS": "```Please write a few words!```",
             "GETTING_VIDEOS": "```I'm bringing videos...```",
@@ -204,7 +204,7 @@
         "sticker": {
             "STICKER_DESC": "It converts your replied photo or video to sticker.",
             "NEED_REPLY": "*Reply to a photo or video!*",
-            "DOWNLOADING": "*💚 ⃟꙰💜꙰ 𝒊𝒑𝒑𝒂𝒎 𝒔𝒆𝒓𝒊𝒚𝒂𝒌𝒊𝒕𝒉𝒓𝒂 𝒃𝒓𝒐💜 ⃟꙰💚꙰*"
+            "DOWNLOADING": "_Your sticker upload....._"
         },
         "system_stats": {
             "ALIVE_DESC": "Does bot work?",
